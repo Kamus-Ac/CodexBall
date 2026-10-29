@@ -1,0 +1,23 @@
+{
+  "intro": [
+    "El béisbol se practica en México desde la segunda mitad del siglo XIX. Su arraigo regional precede a la creación de la liga: el diamante se volvió un espacio para compartir identidad, rivalidades y recuerdos entre generaciones.",
+    "En 1925, Ernesto Carmona y Alejandro Aguilar Reyes, “Fray Nano”, dieron forma a la Liga Mexicana de Béisbol. Su primer encuentro se celebró el 28 de junio en el Parque Franco Inglés de la Ciudad de México. La liga abrió un capítulo duradero para la pelota profesional del país.",
+    "En los años cuarenta, figuras como Martín Dihigo y Joshua Gibson formaron parte de los diamantes de la LMB. Con el paso de las décadas, clubes del norte, el centro y el sureste han construido historias propias dentro de una misma tradición deportiva."
+  ],
+  "timeline": [
+    { "year": "Siglo XIX", "title": "La pelota echa raíces", "text": "La práctica del béisbol en México se remonta a la segunda mitad del siglo XIX.", "source": 0 },
+    { "year": "1925", "title": "Nace una liga", "text": "El 28 de junio se disputa el primer juego de la LMB en el Parque Franco Inglés.", "source": 1 },
+    { "year": "1939–1940", "title": "Dos historias que perduran", "text": "Comienzan las trayectorias de Sultanes en 1939 y de los Rojos del México en 1940.", "source": 2 },
+    { "year": "1954", "title": "La península entra al juego", "text": "Leones de Yucatán debuta en el Parque Carta Clara de Mérida.", "source": 4 },
+    { "year": "2014", "title": "El regreso de la frontera", "text": "Toros vuelve a la LMB en Tijuana, en una nueva etapa de la organización.", "source": 5 },
+    { "year": "2025", "title": "Un siglo de LMB", "text": "La liga celebra cien años desde su primer encuentro de 1925.", "source": 1 }
+  ],
+  "sources": [
+    { "label": "UNAM · Béisbol, Panóptica del deporte universitario (PDF)", "url": "https://deporte.unam.mx/images/publicaciones/panoptica_deporte_universitario_2025_2023.pdf" },
+    { "label": "Servicio Postal Mexicano · 100 años de LMB", "url": "https://www.gob.mx/correosdemexico/acciones-y-programas/100-anos-de-la-liga-mexicana-de-beisbol" },
+    { "label": "Sultanes · Historia", "url": "https://www.sultanes.com.mx/historia" },
+    { "label": "Diablos · Historia (PDF)", "url": "https://www.diablos.com.mx/pdf/folleto-informativo.pdf" },
+    { "label": "Leones · Historia", "url": "https://www.leones.mx/historia/" },
+    { "label": "Toros · Historia", "url": "https://torosdetijuana.com/index.php/historia/" }
+  ]
+}

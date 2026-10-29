@@ -1,0 +1,66 @@
+{
+  "season": 2026,
+  "phase": "Temporada regular",
+  "cutoff": "2026-08-06",
+  "verifiedAt": "2026-10-29",
+  "note": "Corte publicado por MiLB al 6 de agosto de 2026, actualizado el 7 de agosto; contrastado con LMB. No incluye playoffs. Los datos se almacenan localmente y no se actualizan en vivo.",
+  "sources": [
+    { "label": "MiLB · Posiciones 2026 (corte del 6 de agosto)", "url": "https://www.milb.com/es/mexican/standings" },
+    { "label": "LMB · Tabla de posiciones", "url": "https://lmb.com.mx/posiciones" },
+    { "label": "LMB · Calendario 2026 y cierre del rol regular", "url": "https://lmb.com.mx/noticias/listo-el-calendario-lmb-2026-para-los-diablos-rojos" }
+  ],
+  "teams": [
+    {
+      "slug": "sultanes", "name": "Sultanes de Monterrey", "city": "Monterrey, Nuevo León", "initials": "M", "color": "navy", "nickname": "Pasión del norte",
+      "stadium": "Walmart Park", "zone": "Norte", "founded": "1939", "crest": null,
+      "history": ["El club regiomontano comenzó su trayectoria en 1939 con el nombre de Carta Blanca. Su continuidad en la Liga Mexicana de Béisbol ha convertido a la organización en un punto de referencia para la afición de Monterrey.", "La década de los cuarenta marcó su primera gran etapa: bajo la dirección de Lázaro Salazar, el equipo consiguió el tricampeonato de 1947 a 1949. Décadas después, volvió a coronarse en 2007 y en el segundo torneo de 2018."],
+      "achievements": ["Tricampeonato de LMB: 1947, 1948 y 1949.", "Campeón de LMB en 2007 y en el segundo torneo de 2018."],
+      "honorsNote": "Selección de logros documentados; no es un listado completo del palmarés.",
+      "stats": { "wins": 49, "losses": 44, "pct": 0.527, "runsFor": 455, "runsAgainst": 494 },
+      "sources": [
+        { "label": "Sultanes · Historia del club", "url": "https://www.sultanes.com.mx/historia" },
+        { "label": "MiLB · Sultanes, campeón del segundo torneo de 2018", "url": "https://www.milb.com/news/jesus-dionisio-gonzalez-ejecutivo-del-ano-2018-301638202" },
+        { "label": "LMB · Sede e información de Sultanes", "url": "https://lmb.com.mx/equipos/sultanes" }
+      ]
+    },
+    {
+      "slug": "diablos", "name": "Diablos Rojos del México", "city": "Ciudad de México", "initials": "D", "color": "red", "nickname": "El diamante capitalino",
+      "stadium": "Estadio Alfredo Harp Helú", "zone": "Sur", "founded": "1940", "crest": null,
+      "history": ["Salvador Lutteroth y Ernesto Carmona fundaron a los Rojos del México en 1940. El apodo de Diablos Rojos surgió en 1942 y se convirtió en parte de la identidad de la novena capitalina.", "Su primer campeonato llegó en 1956, con Lázaro Salazar al frente. En 2025 conquistaron su título número 18 al vencer a Charros de Jalisco en la Serie del Rey, refrendando la corona obtenida en 2024."],
+      "achievements": ["Primer campeonato de LMB en 1956.", "Bicampeonato 2024–2025; el título de 2025 fue el número 18 del club."],
+      "honorsNote": "Logros seleccionados y total documentado en la nota del club de septiembre de 2025.",
+      "stats": { "wins": 64, "losses": 29, "pct": 0.688, "runsFor": 725, "runsAgainst": 492 },
+      "sources": [
+        { "label": "Diablos · Historia de la organización (PDF)", "url": "https://www.diablos.com.mx/pdf/folleto-informativo.pdf" },
+        { "label": "Diablos · Campeonato número 18 en 2025", "url": "https://diablos.com.mx/noticias/diablos-rojos-del-mexico-corona-otro-ano-magico-con-su-titulo-numero-18" },
+        { "label": "LMB · Sede e información de Diablos", "url": "https://lmb.com.mx/equipos/diablos-rojos" }
+      ]
+    },
+    {
+      "slug": "leones", "name": "Leones de Yucatán", "city": "Mérida, Yucatán", "initials": "L", "color": "green", "nickname": "Béisbol en la península",
+      "stadium": "Parque de Beisbol Kukulkán PBK", "zone": "Sur", "founded": "1954", "crest": null,
+      "history": ["Los Leones debutaron el 17 de abril de 1954 en el Parque Carta Clara de Mérida. El club ganó su primer campeonato en 1957 y, tras distintas etapas de participación, regresó a la LMB en 1979.", "Su historia enlaza generaciones de aficionados yucatecos con campeonatos en distintas épocas. En 1984 llegó la segunda corona; la más reciente de las cinco documentadas por el club en su presentación de 2023 corresponde a 2022."],
+      "achievements": ["Cinco campeonatos documentados: 1957, 1984, 2006, primer torneo de 2018 y 2022.", "Campeón de la Serie del Rey 2022 ante Sultanes de Monterrey."],
+      "honorsNote": "Palmarés documentado por el club en 2023 y su página histórica.",
+      "stats": { "wins": 33, "losses": 58, "pct": 0.363, "runsFor": 368, "runsAgainst": 440 },
+      "sources": [
+        { "label": "Leones · Historia del club", "url": "https://www.leones.mx/historia/" },
+        { "label": "MiLB / Leones · Los cinco campeonatos", "url": "https://www.milb.com/news/leones-los-campeones-presentan-su-piel-2023" },
+        { "label": "LMB · Sede e información de Leones", "url": "https://lmb.com.mx/equipos/leones" }
+      ]
+    },
+    {
+      "slug": "toros", "name": "Toros de Tijuana", "city": "Tijuana, Baja California", "initials": "T", "color": "black", "nickname": "Energía de la frontera",
+      "stadium": "Toros Mobil Park", "zone": "Norte", "founded": "2004 / regreso en 2014", "crest": null,
+      "history": ["La historia de Toros tiene dos etapas: una primera participación en 2004 y el regreso a la Liga Mexicana de Béisbol en 2014. La franquicia de esta segunda etapa llegó a Tijuana desde Minatitlán, donde jugaba como Petroleros.", "La novena fronteriza conquistó sus primeras coronas en 2017 y 2021. En la final de 2021 remontó una desventaja de tres juegos ante Leones de Yucatán. La LMB también registra su coronación en 2026."],
+      "achievements": ["Campeonatos de LMB en 2017 y 2021.", "Campeón de LMB en 2026, según la ficha oficial de la liga."],
+      "honorsNote": "La página histórica del club conserva los títulos de 2017 y 2021; el de 2026 se verifica en LMB.",
+      "stats": { "wins": 60, "losses": 31, "pct": 0.659, "runsFor": 454, "runsAgainst": 313 },
+      "sources": [
+        { "label": "Toros · Historia y antecedentes", "url": "https://torosdetijuana.com/index.php/historia/" },
+        { "label": "Toros · Cronología del club", "url": "https://torosdetijuana.com/index.php/historia-2/" },
+        { "label": "LMB · Sede y campeonato 2026 de Toros", "url": "https://lmb.com.mx/equipos/toros" }
+      ]
+    }
+  ]
+}
